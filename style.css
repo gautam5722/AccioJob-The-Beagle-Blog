@@ -1,0 +1,42 @@
+body {
+    margin-top: 12px;
+    margin-left: 12px;
+
+
+}
+
+.boldtext {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.content {
+    height: 180px;
+    width: 1499px;
+    padding-left: 10px;
+    border: 1px solid black;
+    /* margin-left: 10px; */
+
+}
+ol {
+    padding-left: 20px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.imagehead, .trivia{
+    text-decoration: underline;
+}
+
+
+.image {
+    width: 300px;
+
+}
+
+.doglink {
+    padding-top: 10px;
+}
